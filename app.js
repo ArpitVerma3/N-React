@@ -6,7 +6,7 @@
         React.createElement("h2",{},"I`m a h2 tag"))
  );
  console.log(parent);
-//multiple childs will passed in array {}
+
 
 
 
