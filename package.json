@@ -1,0 +1,27 @@
+{
+  "name": "n-react",
+  "version": "1.0.0",
+  "description": "This is N-React by Arpit",
+  "keywords": [
+    "react",
+    "arpit"
+  ],
+  "homepage": "https://github.com/ArpitVerma3/N-React#readme",
+  "bugs": {
+    "url": "https://github.com/ArpitVerma3/N-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArpitVerma3/N-React.git"
+  },
+  "license": "ISC",
+  "author": "Arpit Verma",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
